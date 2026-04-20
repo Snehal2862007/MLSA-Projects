@@ -1,0 +1,55 @@
+{
+  "tasks": [
+    {
+      "title": "java project",
+      "priority": "Medium",
+      "difficulty": "Medium",
+      "due_date": "2026-8-4",
+      "status": "Completed"
+    },
+    {
+      "title": "java project - part 1",
+      "priority": "Medium",
+      "difficulty": "Medium",
+      "due_date": "2026-8-4",
+      "status": "Completed"
+    },
+    {
+      "title": "java project - part 2",
+      "priority": "Medium",
+      "difficulty": "Medium",
+      "due_date": "2026-8-4",
+      "status": "Completed"
+    },
+    {
+      "title": "learn all data structures",
+      "priority": "Medium",
+      "difficulty": "Medium",
+      "due_date": "2026-04-26",
+      "status": "Completed"
+    },
+    {
+      "title": "create a website",
+      "priority": "Medium",
+      "difficulty": "Hard",
+      "due_date": "2026-4-30",
+      "status": "Completed"
+    },
+    {
+      "title": "practice of anchoring",
+      "priority": "High",
+      "difficulty": "Medium",
+      "due_date": "2026-5-20",
+      "status": "Pending"
+    },
+    {
+      "title": "follw diet",
+      "priority": "High",
+      "difficulty": "Easy",
+      "due_date": "2026-4-30",
+      "status": "Pending"
+    }
+  ],
+  "streak_count": 1,
+  "last_completed_date": "2026-04-20"
+}
