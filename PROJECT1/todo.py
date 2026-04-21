@@ -1,3 +1,7 @@
+#Create a Smart To-Do List Pro in Python with features:
+# add task, delete task, mark task as complete,
+# set priority, save/load tasks from file, and display tasks
+
 import json
 import os
 from datetime import date, datetime, timedelta
@@ -160,7 +164,7 @@ class SmartTodoApp:
         self.root.title("Smart To-Do List Pro")
         self.root.geometry("900x620")
         self.root.resizable(False, False)
-        self.root.configure(bg="#eaf0ff")
+        self.root.configure(bg="#975168")
 
         self.style = ttk.Style()
         self.style.theme_use("clam")
